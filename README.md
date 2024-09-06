@@ -18,7 +18,7 @@
 - 🔧 Doing things with passion to get better with every task
 - 🔍 Exploiting the advantages of privacy preserving and distributed machine learning
 - 🌱 Currently studying optimization theory and how to play stylophone like a pro
-- 🌍 Based in Milan
+- 🌍 Based in Milan, flew from Belarus
 
 <hr/>
 <h2 align="center">⚒️ Main Technologies and Tools ⚒️</h2>
