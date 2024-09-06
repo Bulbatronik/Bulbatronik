@@ -11,7 +11,7 @@
 </div>
 <hr/>
 
-#### On my path to becoming a machine learning researcher!
+#### On my path to becoming a machine learning researcher in Big Tech!
 <hr/>
 
 - 🔭 Pursuing PhD in Data Analytics and Decision Sciences 
